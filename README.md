@@ -43,34 +43,42 @@ CIRCUIT DIAGRAM:
 CIRCUIT DIAGRAM:
 
 
-a.   KVL:
+a.   KVL:<img width="1253" height="752" alt="image" src="https://github.com/user-attachments/assets/2c83a394-e9b3-4a44-81c9-fe23ef5c6f20" />
+
+
  
 
+CIRCUIT DIAGRAM:
+b.  KCL:<img width="928" height="667" alt="image" src="https://github.com/user-attachments/assets/79682199-206e-4ffa-9017-fb5b375e739d" />
 
-b.  KCL:
  
 
 Calculation:
 
-a.   KVL:
+a.   KVL:<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/eea3c0ca-19f2-4899-8d63-536e9ba6840e" />
+
  
 
+Calculation:
+b.  KCL: <img width="948" height="1600" alt="image" src="https://github.com/user-attachments/assets/c028c3db-5737-4c62-a96c-800a31867e59" />
 
-b.  KCL:
 
 
 
 
 Tabulation:
 
-a.   KVL:
+a.   KVL: <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/41eb3273-cd16-4b6f-8f20-333a45f942ac" />
+
  
 
+Tabulation:
+b.  KCL: <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/ce099a92-8950-4e85-9993-fe344366fd88" />
 
-b.  KCL:
 
 
 
 RESULT:
 
-Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
+Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL ARE PROVED 
+
